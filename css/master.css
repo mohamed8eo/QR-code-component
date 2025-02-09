@@ -56,4 +56,5 @@ body{
     color: var(--Slate-500);
     line-height:1.4;
     letter-spacing: .2px;
+    font-size: 15px;
 }
